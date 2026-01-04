@@ -85,13 +85,3 @@ Built using **clean OOP principles**, static utility methods, and defensive prog
 
 Special thanks to **Dr. Mohammed Abu-Hadhoud**
 for his guidance and structured approach to **C++ and Object-Oriented Programming**.
-
-
-
-If you want next, I can:
-
-* 🔹 Combine all libraries into **one core framework**
-* 🔹 Review this like a **senior C++ engineer**
-* 🔹 Help you organize your **GitHub repositories professionally**
-
-Just tell me 🚀
